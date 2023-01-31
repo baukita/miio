@@ -1,5 +1,5 @@
 {
-  "name": "miio-yeelight-x",
+  "name": "@svyatogor/miio-yeelight-x",
   "version": "0.17.0",
   "license": "MIT",
   "description": "Control Mi Home devices, such as Mi Robot Vacuums, Mi Air Purifiers, Mi Smart Home Gateway (Aqara) and more",
