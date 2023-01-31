@@ -1,9 +1,9 @@
 {
   "name": "miio-yeelight-x",
-  "version": "0.16.00",
+  "version": "0.17.0",
   "license": "MIT",
   "description": "Control Mi Home devices, such as Mi Robot Vacuums, Mi Air Purifiers, Mi Smart Home Gateway (Aqara) and more",
-  "repository": "baukita/miio",
+  "repository": "svyatogor/miio",
   "main": "lib/index.js",
   "keywords": [
     "xiaomi",
